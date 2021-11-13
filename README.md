@@ -49,3 +49,18 @@ Graphs are available in folder once the program is executed
 
 ### Notes
 * Python was installed through Anaconda so some packages installed through Anaconda were already available to me
+
+### To do list: 
+A clear and informationve README.md - why it exists, what is in it and how to run the notebooks
+A requirements.txt file that enable users to quickly run your notebooks with minimal configuration and including data files and image files
+
+#### Scikit-Learn Jupyter
+clear and concise overview of the scikit-learn Python library
+Demonstrations of three interesting scikit-learn algorithms
+Appropiate plots and other visualisations to enhance your notebook for viewers
+
+#### Scipy Stts Jupyter Notebook
+clear and concise overview of the scipy.stats Python library
+an example hypotheses test using ANOVA - find an example of a data set appropiate to use ANOVA, ensure the assumption underlying ANOVA are met, and then perform and display the results of your ANOVA using scipy.stats
+Appropiate plots and other visualisations to enhance your notebook for viewers
+
