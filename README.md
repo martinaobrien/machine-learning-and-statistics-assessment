@@ -64,3 +64,12 @@ clear and concise overview of the scipy.stats Python library
 an example hypotheses test using ANOVA - find an example of a data set appropiate to use ANOVA, ensure the assumption underlying ANOVA are met, and then perform and display the results of your ANOVA using scipy.stats
 Appropiate plots and other visualisations to enhance your notebook for viewers
 
+#### Layout of Jupyter
+
+Space for Title and Infomration on Documentation
+Detailed Reference System with Reference Numbers
+Lines should be more that 78 characters - PEP8
+Include a NB viewer and myBinder.org Badge
+
+#### Requirements.txt
+Should include numpy and matplotlib
