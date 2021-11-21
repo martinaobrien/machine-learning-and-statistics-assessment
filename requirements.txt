@@ -1,3 +1,5 @@
+numpy
+matplotlib
 ##### Running Jupyter:
 Jupyter is a Python package, installed on your machine that does not require importation from Python packages. It is commonly run from the machine command line.
 
