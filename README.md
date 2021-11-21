@@ -4,11 +4,15 @@ You can view the notebook in static and dynamic forms on:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/tree/main/)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinaobrien/machine-learning-and-statistics-assessment/HEAD)
+
+
 Sckit- learn
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
 https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scikit-Learn-Jupyter-Notebook.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scikit-Learn-Jupyter-Notebook.ipynb/HEAD?labpath=Scikit-Learn-Jupyter-Notebook.ipynb)
 
 Scipy Stats
 
