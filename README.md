@@ -1,4 +1,14 @@
 # Machine Learning and Statistics - Winter 21/22 Assessment
+# Quick Steps
+You can view the notebook at the following URL: 
+
+https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/tree/main/ 
+
+Sckit- learn
+https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scikit-Learn-Jupyter-Notebook.ipynb 
+
+Scipy Stats
+https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scipy-Stats-Jupyter-Notebook.ipynb 
 
 # machine-learning-and-statistics-assessment
 A repository created as part of course requirements for Higher Diploma in Data Analytics with GMIT 2021
