@@ -5,11 +5,13 @@ You can view the notebook at the following URL:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/tree/main/)
 
 Sckit- learn
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
 https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scikit-Learn-Jupyter-Notebook.ipynb)
 
 
 Scipy Stats
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scipy-Stats-Jupyter-Notebook.ipynb)
 
 # machine-learning-and-statistics-assessment
