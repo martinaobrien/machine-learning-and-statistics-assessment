@@ -5,10 +5,12 @@ You can view the notebook at the following URL:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/tree/main/)
 
 Sckit- learn
-https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scikit-Learn-Jupyter-Notebook.ipynb 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
+https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scikit-Learn-Jupyter-Notebook.ipynb)
+
 
 Scipy Stats
-https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scipy-Stats-Jupyter-Notebook.ipynb 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scipy-Stats-Jupyter-Notebook.ipynb)
 
 # machine-learning-and-statistics-assessment
 A repository created as part of course requirements for Higher Diploma in Data Analytics with GMIT 2021
