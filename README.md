@@ -1,6 +1,6 @@
 # Machine Learning and Statistics - Winter 21/22 Assessment
 # Quick Steps
-You can view the notebook at the following URL: 
+You can view the notebook in static and dynamic forms on: 
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/tree/main/)
 
@@ -13,6 +13,8 @@ https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assess
 Scipy Stats
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/martinaobrien/machine-learning-and-statistics-assessment/blob/main/Scipy-Stats-Jupyter-Notebook.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinaobrien/machine-learning-and-statistics-assessment/HEAD?labpath=Scipy-Stats-Jupyter-Notebook.ipynb)
 
 # machine-learning-and-statistics-assessment
 A repository created as part of course requirements for Higher Diploma in Data Analytics with GMIT 2021
