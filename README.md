@@ -1,4 +1,10 @@
 # Machine Learning and Statistics - Winter 21/22 Assessment
+
+## Overview of Project: 
+Machine Learning and Statistical Modeling is about "creating models from data to enhance understanding and knowledge about phenonema. Machine learning models are designed to make the most accurate predictions possible. Statistical models are designed for inference about the relationships between variables.” While the stated is true, it is important to note that they are very much interlinked with statistical models also catering for predictions too.https://towardsdatascience.com/the-actual-difference-between-statistics-and-machine-learning-64b49f07ea3
+
+
+<br>
 # Quick Steps
 You can view the notebook in static and dynamic forms on: 
 
