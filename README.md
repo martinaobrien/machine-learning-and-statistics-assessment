@@ -61,6 +61,7 @@ The following packages are used in this repository, all of which can be found in
 • Jupyter notebook - Installed from: https://anaconda.org/anaconda/jupyter<br>
 • numpy package - Installed from: https://anaconda.org/anaconda/numpy<br>
 • seaborn - Installed from: https://anaconda.org/anaconda/seaborn<br>
+• pingouin - Installed from python in the jupyter notebook using the command - pip install pingouin<br>
 
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
