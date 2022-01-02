@@ -43,7 +43,10 @@ The assigment requires as follows:
 
 #### Include a Jupyter notebook called scipy-stats that contains the following
 - clear and concise overview of the scipy.stats Python library
-- an example hypotheses test using ANOVA - find an example of a data set appropiate to use ANOVA, ensure the assumption underlying ANOVA are met, and then perform and display the results of your ANOVA using scipy.stats
+- an example hypotheses test using ANOVA
+    - find an example of a data set appropiate to use ANOVA, 
+    - ensure the assumption underlying ANOVA are met,
+    - and then perform and display the results of your ANOVA using scipy.stats
 - Appropiate plots and other visualisations to enhance your notebook for viewers
 
 ## Background Information to the Project
@@ -93,15 +96,8 @@ This was achieved by adding HTML tags in the markdown in the Jupyter notebook:
 The notebook will be displayed automatically if the requisites named above are installed. A caveat to be mindful of within Jupyter Notebook is that on occasion it won’t display automatically. To override this and render the notebook use the following link and past the url into the following website: https://nbviewer.jupyter.org/. Alternatively, the rendering of the notebooks can be gotten through the buttons at the start of this ReadMe.
 
 ## Notes
-* Python was installed through Anaconda so some packages installed through Anaconda were already available to me
-
-## To do list: 
-A clear and informationve README.md - why it exists, what is in it and how to run the notebooks
-A requirements.txt file that enable users to quickly run your notebooks with minimal configuration and including data files and image files
+* Python was installed through Anaconda so some packages installed through Anaconda were already available without additional installatione
 
 #### License:
 The repository is for use within the GNU General Public License 3.0.
 To find more on the license: https://www.gnu.org/licenses/gpl-3.0.en.html
-
-#### Requirements.txt
-Should include numpy and matplotlib
