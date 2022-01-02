@@ -85,8 +85,6 @@ Jupyter contains an inbuilt text editor which allows you to document the noteboo
 
 Images in the Jupyter Notebook are brought in through a URL. The images are stored in GitHub in the img folder. This ensures that the project will still be accessible should the original URL or source change.
  
- ![ALT Our Subjects](https://payatu.com/wp-content/uploads/2018/04/Selection_004.png)
-
 **Inserting Internal Hyperlinks**
 
 The table of contents is also interactive in the tips dataset assignment Jupyter notebook through adding hyperlinks. 
