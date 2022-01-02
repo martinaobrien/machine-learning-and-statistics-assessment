@@ -95,7 +95,7 @@ This was achieved by adding HTML tags in the markdown in the Jupyter notebook:
 The notebook will be displayed automatically if the requisites named above are installed. A caveat to be mindful of within Jupyter Notebook is that on occasion it won’t display automatically. To override this and render the notebook use the following link and past the url into the following website: https://nbviewer.jupyter.org/. Alternatively, the rendering of the notebooks can be gotten through the buttons at the start of this ReadMe.
 
 ## Notes
-* Python was installed through Anaconda so some packages installed through Anaconda were already available without additional installatione
+* Python was installed through Anaconda so some packages installed through Anaconda were already available without additional installations
 
 #### License:
 The repository is for use within the GNU General Public License 3.0.
