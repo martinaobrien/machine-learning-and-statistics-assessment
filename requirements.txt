@@ -1,4 +1,6 @@
 numpy
 matplotlib
 pandas
-pingouin
+pingouin - pip install pingouin
+scikit-learn
+seaborn
